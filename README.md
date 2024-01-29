@@ -1,1 +1,1 @@
-# IMDB Clone App
+# IMDb Clone App
