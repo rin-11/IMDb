@@ -1,7 +1,7 @@
 export default function About() {
     return (
       <div className='max-w-6xl mx-auto p-3 space-y-4'>
-        <h1 className='text-2xl font-medium text-neutral-500'>About this Website</h1>
+        <h1 className='text-2xl font-medium text-neutral-300'>About this Website</h1>
         <p>
           Welcome to my movie database website! This app was built as a one-stop destination for
           all your movie-related needs.
