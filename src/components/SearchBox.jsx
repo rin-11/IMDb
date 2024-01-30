@@ -23,7 +23,7 @@ export default function SearchBox() {
         onChange={(e) => setSearch(e.target.value)}
       />
       <button
-        className='text-amber-600 disabled:text-gray-400'
+        className='text-neutral-100 disabled:text-gray-400'
         disabled={search === ''}
       >
         Search
